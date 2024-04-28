@@ -1,0 +1,6 @@
+Flask==2.0.1
+opencv-python==4.5.3.56
+numpy==1.21.1
+SpeechRecognition==3.8.1
+gTTS==2.2.4
+cvzone==1.0.0

@@ -1,0 +1,16 @@
+{
+  "name": "hand-gesture-interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "set FLASK_APP=C:/Users/aditi/Downloads/finalYearProject/finalYearProject/flask/app.py && flask run --port 3000",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
